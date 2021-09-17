@@ -5,7 +5,7 @@
 
 <p align="center" width="150px"> We create awesome apps for the Atlassian ecosystem, to connect your favorite Microsoft 365 tools to Jira and Confluence. <a href="https://marketplace.atlassian.com/vendors/1211722/yasoon">Check them out!</a></p>
 
----
+&nbsp;
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -21,13 +21,13 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
----
+&nbsp;
 
 ### 🚀 &nbsp;Jobs
 
 We are always looking for qualified people, check our homepage for more info: https://yasoon.com/career/
 
----
+&nbsp;
 
 ### :link: &nbsp;Connect with us
 
@@ -39,4 +39,4 @@ We are always looking for qualified people, check our homepage for more info: ht
 </p>
 
 ---
-© 2021 https://www.yasoon.com
+by [yasoon](https://www.yasoon.com)
