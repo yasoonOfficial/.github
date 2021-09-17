@@ -20,13 +20,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 &nbsp;
 
 ### 🚀 &nbsp;Jobs
 
 We are always looking for qualified people, check our homepage for more info: https://yasoon.com/career/
-
 &nbsp;
 
 ### :link: &nbsp;Connect with us
